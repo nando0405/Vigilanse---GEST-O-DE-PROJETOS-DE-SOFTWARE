@@ -1,4 +1,19 @@
 ﻿# Vigilanse---GESTÃO-DE-PROJETOS-DE-SOFTWARE
+
+Integrantes:
+
+**Nathan Vespasiano Fonseca RA: 24.124.086-4**
+
+**Felipe Da Rocha Pinheiro RA:**
+
+**Fernando Domingues RA: 22.122.034-6**
+
+# Product Owner:
+ **Fernando Domingues**
+ # Scrum master:
+ **Nathan Vespasiano**
+ # Dev:
+ **Felipe Pinheiro**
  
 <h1>Definition of Done (DoD):</h1>
 A definição de "pronto" é quando a tarefa já estiver testada e integrada no sistema, sem apresentar erros que impeçam o funcionamento e que atendam aos critérios de aceitação da história do usuário.
